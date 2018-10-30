@@ -39,5 +39,6 @@
                 "Tags": "Yaranliu\\Tags\\Facades\\Tags"
             }
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
